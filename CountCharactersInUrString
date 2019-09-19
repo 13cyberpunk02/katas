@@ -1,0 +1,22 @@
+using System;
+using System.Collections.Generic;
+
+public class Kata
+{
+  public static Dictionary<char, int> Count(string str)
+  {
+    Dictionary<char, int> res = new Dictionary<char, int>();
+    char[] letter = str.ToCharArray();
+    for(int i = 0; i < letter.Length; i++)
+    {
+      if(res.ContainsKey(letter[i]))
+      {
+        int value = res[letter[i]];
+        res[letter[i]] = value + 1;
+      }
+      else
+        res.Add(letter[i], 1);
+    }
+      return res;
+  }
+}
