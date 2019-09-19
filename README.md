@@ -5,3 +5,4 @@ Here is my resolved katas:
  3. DescendingOrder.cs -> (https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
  4. GenerateRangeOfIntegers.cs -> (https://www.codewars.com/kata/55eca815d0d20962e1000106)
  5. SquareEveryDigit.cs -> (https://www.codewars.com/kata/546e2562b03326a88e000020)
+ 6. SurfaceAreaAndVolumeOfBox.cs -> (https://www.codewars.com/kata/565f5825379664a26b00007c)
