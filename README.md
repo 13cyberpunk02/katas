@@ -1,2 +1,2 @@
 # Katas
-Here is my katas that i have solved
+Here is my resolved katas 
