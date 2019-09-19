@@ -9,3 +9,4 @@ Here is my resolved katas:
  7. WillBeThereEnoughSpace.cs -> (https://www.codewars.com/kata/5875b200d520904a04000003)
  8. StringyStrings.cs -> (https://www.codewars.com/kata/563b74ddd19a3ad462000054)
  9. SumOfCubes.cs -> (https://www.codewars.com/kata/59a8570b570190d313000037)
+ 10. Mumbling.cs -> (https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
