@@ -14,3 +14,4 @@ Here is my resolved katas:
  12. GCD.cs -> (https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd)
  13. NameShuffler.cs -> (https://www.codewars.com/kata/559ac78160f0be07c200005a)
  14. BoolToString.cs -> (https://www.codewars.com/kata/53369039d7ab3ac506000467)
+ 15. VowelRemover.cs -> (https://www.codewars.com/kata/5547929140907378f9000039)
