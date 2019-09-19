@@ -12,3 +12,4 @@ Here is my resolved katas:
  10. Mumbling.cs -> (https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
  11. BasicMathOperation.cs -> (https://www.codewars.com/kata/57356c55867b9b7a60000bd7)
  12. GCD.cs -> (https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd)
+ 13. NameShuffler.cs -> (https://www.codewars.com/kata/559ac78160f0be07c200005a)
