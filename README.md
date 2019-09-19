@@ -17,3 +17,4 @@ Here is my resolved katas:
  15. VowelRemover.cs -> (https://www.codewars.com/kata/5547929140907378f9000039)
  16. VasyaClerk.cs -> (https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8)
  17. MexicanWave.cs -> (https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
+ 18. StopSpinningMyWords.cs -> (https://www.codewars.com/kata/5264d2b162488dc400000001)
