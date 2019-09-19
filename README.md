@@ -18,3 +18,4 @@ Here is my resolved katas:
  16. VasyaClerk.cs -> (https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8)
  17. MexicanWave.cs -> (https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
  18. StopSpinningMyWords.cs -> (https://www.codewars.com/kata/5264d2b162488dc400000001)
+ 19. CreatePhonNumber.cs -> (https://www.codewars.com/kata/525f50e3b73515a6db000b83)
