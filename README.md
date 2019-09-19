@@ -22,3 +22,4 @@ Here is my resolved katas:
  20. CountCharactersInUrString.cs -> (https://www.codewars.com/kata/52efefcbcdf57161d4000091)
  21. WhoLikesIt.cs -> (https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
  22. MatrixAddtion.cs -> (https://www.codewars.com/kata/526233aefd4764272800036f)
+ 23. TwoSum.cs -> (https://www.codewars.com/kata/52c31f8e6605bcc646000082)
