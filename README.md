@@ -10,3 +10,4 @@ Here is my resolved katas:
  8. StringyStrings.cs -> (https://www.codewars.com/kata/563b74ddd19a3ad462000054)
  9. SumOfCubes.cs -> (https://www.codewars.com/kata/59a8570b570190d313000037)
  10. Mumbling.cs -> (https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
+ 11. BasicMathOperation.cs -> (https://www.codewars.com/kata/57356c55867b9b7a60000bd7)
