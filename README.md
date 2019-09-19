@@ -20,3 +20,4 @@ Here is my resolved katas:
  18. StopSpinningMyWords.cs -> (https://www.codewars.com/kata/5264d2b162488dc400000001)
  19. CreatePhonNumber.cs -> (https://www.codewars.com/kata/525f50e3b73515a6db000b83)
  20. CountCharactersInUrString.cs -> (https://www.codewars.com/kata/52efefcbcdf57161d4000091)
+ 21. WhoLikesIt.cs -> (https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
