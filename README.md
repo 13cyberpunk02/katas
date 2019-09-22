@@ -26,3 +26,4 @@ Here is my resolved katas:
  24. TripleTrouble.cs -> (https://www.codewars.com/kata/55d5434f269c0c3f1b000058)
  25. PascalTriangle.cs -> (https://www.codewars.com/kata/5226eb40316b56c8d500030f) 
  26. IsNumberPrime.cs -> (https://www.codewars.com/kata/5262119038c0985a5b00029f)
+ 27. FindMissingLetter.cs -> (https://www.codewars.com/kata/5839edaa6754d6fec10000a2)
