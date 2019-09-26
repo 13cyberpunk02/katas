@@ -27,3 +27,4 @@ Here is my resolved katas:
  25. PascalTriangle.cs -> (https://www.codewars.com/kata/5226eb40316b56c8d500030f) 
  26. IsNumberPrime.cs -> (https://www.codewars.com/kata/5262119038c0985a5b00029f)
  27. FindMissingLetter.cs -> (https://www.codewars.com/kata/5839edaa6754d6fec10000a2)
+ 28. CamelCaseMethod.cs -> (https://www.codewars.com/kata/587731fda577b3d1b0001196)
