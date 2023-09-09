@@ -16,7 +16,7 @@ public class Kata
             return new int[] { index, i };
         }
 
-        if (numsDictionary.ContainsKey(nums[i]) == false)
+        if (!numsDictionary.ContainsKey(nums[i]))
         {
             numsDictionary.Add(nums[i], i);
         }
